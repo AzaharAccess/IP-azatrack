@@ -29,7 +29,7 @@ welcome() {
         if [ $slctp -eq 1 ];
                   then
                         iptracker
-        elif [ $opt -eq 2];
+        elif [ $slctp -eq 2 ];
         then
                 sleep 1
         else
